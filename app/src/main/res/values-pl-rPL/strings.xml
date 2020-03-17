@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Suchar</string>
+    <string name="gen_button">GENERUJ</string>
+    <string name="joke1">Żart numer 1</string>
+    <string name="joke2">Żart numer 2</string>
+    <string name="joke3">Żart numer 3</string>
+    <string name="joke4">Żart numer 4</string>
+    <string name="joke5">Żart numer 5</string>
+    <string name="joke6">Żart numer 6</string>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Not funny app</string>
+    <string name="gen_button">GENERATE</string>
+    <string name="joke1">Joke number 1</string>
+    <string name="joke2">Joke number 2</string>
+    <string name="joke3">Joke number 3</string>
+    <string name="joke4">Joke number 4</string>
+    <string name="joke5">Joke number 5</string>
+    <string name="joke6">Joke number 6</string>
+</resources>
